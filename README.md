@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div align="center">
+  <a href="https://open.spotify.com/user/ps4squadsongs">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ps4squadsongs&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
 <!--
 **tdspriet/tdspriet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
