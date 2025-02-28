@@ -8,7 +8,3 @@
 - 📄 I have already studied **Industrial Sciences: Computer Science**
 
 - 📫 Reach me @**thibaud.despriet@gmail.com**
-
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/c29e7a7e-7c87-44cd-bbbd-da914c9a43ff">
-</div>
