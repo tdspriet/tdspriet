@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thibaud.despriet@gmail.com**
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/ps4squadsongs">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ps4squadsongs&count=5&unique=true" alt="Spotify recently played"  />
   </a>
