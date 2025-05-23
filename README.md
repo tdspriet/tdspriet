@@ -9,4 +9,6 @@
 
 - 📫 Reach me @**thibaud.despriet@gmail.com**
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ps4squadsongs)
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ps4squadsongs" alt="Alt text" />
+</p>
