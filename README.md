@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thibaud</h1>
 <h3 align="center">Driven IT student with a passion for AI, machine learning, and computer vision.</h3>
 
-- 🔭 I’m currently **Studying for my exams**
-
-- 🌱 I’m studying **Civil Engineering: Computer Science**
-
-- 📄 I have already studied **Industrial Sciences: Computer Science**
-
-- 📫 Reach me @**thibaud.despriet@gmail.com**
+<div align="center">
+  <ul style="display: inline-block; list-style-position: inside; text-align: center; padding: 0; margin: 1em 0;">
+    <li>🔭 I’m currently <strong>Studying for my exams</strong></li>
+    <li>🌱 I’m studying <strong>Civil Engineering: Computer Science</strong></li>
+    <li>📄 I have already studied <strong>Industrial Sciences: Computer Science</strong></li>
+    <li>📫 Reach me @<strong>thibaud.despriet@gmail.com</strong></li>
+  </ul>
+</div>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ps4squadsongs" alt="Alt text" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ps4squadsongs" alt="Recently played on Spotify" />
 </p>
